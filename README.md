@@ -1,6 +1,8 @@
 # Assembler-pacman
 
 Juego programado en Assembler usando el IDE Turbo Pascal
+ 
+ ![juego](static/imagen_del_mapa.PNG)
 
 # Manual de ejecución
 
