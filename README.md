@@ -13,7 +13,7 @@ Se debe abrir DOSBox, ejecutando el archivo .bat llamado "Iniciar DOSBox.bat"
 
 ## Paso 2
 
-Al abrir DOSBox no mostrar un menú como el que se muestra en la siguiente imagen.
+Al abrir DOSBox mostrará un menú como el que se muestra en la siguiente imagen.
 
 ![Menu de arranque](static/menu_de_arranque.PNG)
 
@@ -41,6 +41,6 @@ Una vez abierto el juego pedirá ingresar el RUT, para esto se debe ingresar 000
 
 ![Inicio del juego](static/imagen_de_inicio.PNG)
 
-Ingresado el RUT se podra jugar de esta versíon de pacman
+Ingresado el RUT se podrá jugar esta versíón de pacman
 
 ![juego](static/imagen_del_mapa.PNG)
