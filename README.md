@@ -6,7 +6,7 @@ Juego programado en Assembler usando el IDE Turbo Pascal
 
 # Manual de ejecución
 
-El juego solo puede ser ejecutados desde el sistema operativo Windows.
+El juego solo puede ser ejecutado desde el sistema operativo Windows.
 Para ejecutar el juego se deben seguir los siguientes pasos:
 
 ## Paso 1
