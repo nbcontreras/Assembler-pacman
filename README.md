@@ -29,7 +29,7 @@ Para abrir el archivo que posee el código se debe presionar en "File" y luego e
 
 ![Abrir código](static/menu_dosbox_open.PNG)
 
-Ahora se debe seleccionar el código CONTRERAS.PAS y luego presionar en "Open"
+Ahora se debe seleccionar el código CONTRERA.PAS y luego presionar en "Open"
 
 ![Abrir código 2](static/menu_dosbox_seleccionar_file.PNG)
 
