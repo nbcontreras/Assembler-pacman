@@ -41,6 +41,6 @@ Una vez abierto el juego pedirá ingresar el RUT, para esto se debe ingresar 000
 
 ![Inicio del juego](static/imagen_de_inicio.PNG)
 
-Ingresado el juego se podra jugar de esta versíon de pacman
+Ingresado el RUT se podra jugar de esta versíon de pacman
 
 ![juego](static/imagen_del_mapa.PNG)
